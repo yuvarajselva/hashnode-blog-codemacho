@@ -6,6 +6,7 @@ category: Kubernetes, Bash, Scripting, jq
 cover: https://images.unsplash.com/photo-1508404971049-e37350e9f05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80
 domain: yuvarajselva.hashnode.dev 
 publishAs: Yuvi
+published: true
 ---
 
 # Introduction
