@@ -2,6 +2,7 @@
 title: How to handle Multi-Cluster setup for AKS in your local machine
 subtitle: Handling multi cluster setup can be time-consuming to setup and this blog would make your job easier
 tags: Kubernetes, Bash, Scripting, jq
+category: Kubernetes, Bash, Scripting, jq
 cover: https://images.unsplash.com/photo-1508404971049-e37350e9f05c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80
 domain: yuvarajselva.hashnode.dev 
 publishAs: Yuvi
